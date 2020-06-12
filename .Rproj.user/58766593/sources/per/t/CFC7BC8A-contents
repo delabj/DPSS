@@ -1,0 +1,10 @@
+library(pogoshinyrates)
+
+
+
+df <- get_shinyrates_data()
+
+date <- format(Sys.time(), "%Y-%m-%d")
+
+readr::write_csv(df, here::here("data",paste0("shinyrates", date, ".csv")))
+
