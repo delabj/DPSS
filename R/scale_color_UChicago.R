@@ -3,7 +3,7 @@
 #' @description Custom color scale to use the delabj palettes.
 #' @usage scale_color_UChicago(palette="main", reverse=FALSE, ...)
 #'
-#' @param palette Name of the palette (main, zune)
+#' @param palette Name of the palette ("core", "shade", "tint")
 #' @param reverse Boolean: should the palette be reversed
 scale_color_UChicago <- function(palette = 'core', discrete= TRUE, reverse = FALSE, ...){
   pal <- get_UChicago_palettes(palette = palette, reverse = reverse)
