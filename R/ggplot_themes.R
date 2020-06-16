@@ -91,5 +91,5 @@ theme_UChicago <- function (
                                        hjust = 0.5)
   return (th)
 }
-plot+ggplot2::aes(fill=as.factor(cyl))+theme_UChicago()+scale_fill_UChicago()+ggplot2::facet_wrap(~gear)
+#plot+ggplot2::aes(fill=as.factor(cyl))+theme_UChicago()+scale_fill_UChicago()+ggplot2::facet_wrap(~gear)
 

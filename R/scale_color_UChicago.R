@@ -28,7 +28,7 @@ scale_fill_UChicago <- function(palette = 'core', discrete= TRUE, reverse = FALS
   if (discrete) {
     ggplot2::discrete_scale("fill", paste0("UChicago", palette), palette = pal, ...)
   } else {
-    ggplot2::scale_color_gradientn(colours = pal(256), ...)
+    ggplot2::scale_fill_gradientn(colours = pal(256), ...)
   }
 }
 
