@@ -3,7 +3,7 @@
     "path": "~/DPSS/R/pal_and_col.R",
     "project_path": "R/pal_and_col.R",
     "type": "r_source",
-    "hash": "728432127",
+    "hash": "1081143737",
     "contents": "",
     "dirty": false,
     "created": 1591887548322.0,
@@ -11,15 +11,15 @@
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "94,0",
-        "scrollLine": "68"
+        "cursorPosition": "10,28",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1591895048,
+    "lastKnownWriteTime": 1592310411,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1591895048541,
+    "last_content_update": 1592310411076,
     "read_only": false,
     "read_only_alternatives": []
 }

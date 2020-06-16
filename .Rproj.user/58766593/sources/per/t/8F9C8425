@@ -3,21 +3,23 @@
     "path": "~/DPSS/R/ggplot_themes.R",
     "project_path": "R/ggplot_themes.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1171908323",
     "contents": "",
     "dirty": false,
     "created": 1591887397097.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "tempName": "Untitled1"
+        "tempName": "Untitled1",
+        "cursorPosition": "80,14",
+        "scrollLine": "42"
     },
     "folds": "",
-    "lastKnownWriteTime": 1591887413,
+    "lastKnownWriteTime": 1592253260,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1591887413106,
+    "last_content_update": 1592253261004,
     "read_only": false,
     "read_only_alternatives": []
 }
