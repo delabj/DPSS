@@ -31,7 +31,8 @@ colors_UChicago  <- c(
   'violet tint'       = '#725663',
   'violet core'       = '#350E20',
   'cyan'              = '#47B5FF',
-  'magenta'           = '#FF3399'
+  'magenta'           = '#FF3399',
+  'black'             = '#000000'
 
 )
 
